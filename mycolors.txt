@@ -1,4 +1,5 @@
 red
 blue
 black
+orange -- this is footer theme color
 green
